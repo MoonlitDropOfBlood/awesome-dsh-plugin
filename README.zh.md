@@ -4087,6 +4087,7 @@ dsh plugin --profile web add dshmarket
 - [minivv/dsh-agent-skills](https://github.com/minivv/dsh-agent-skills) — 在 DSH 设置面板中浏览、启用、停用和管理来自 Claude Code、Codex、OpenCode、Gemini 及自定义目录的 Agent Skills。
 - [MiraculousGarfield/dsh-ops-health](https://github.com/MiraculousGarfield/dsh-ops-health) — 一键健康检查：侧边栏按钮经纯 HTTP 路由（独立于工具注册表）调用 check-health.ps1 并渲染结构化报告卡片；配色跟随当前主题，Windows/PowerShell。
 - [mkiea/dsh-forge](https://github.com/mkiea/dsh-forge) — DeepSeek Harness 插件组合分析工具：依赖树、冲突检测、风险评估（含预测）、可视化与组合模拟。
+- [MoonlitDropOfBlood/dsh-deveco](https://github.com/MoonlitDropOfBlood/dsh-deveco) — HarmonyOS 全栈开发套件：右侧边栏提供 HiLog 检查器（实时流与级别/包名/关键词过滤）与 ArkUI Inspector（截图点选高亮、可折叠组件树、节点属性搜索、盒子模型），两种树源——DevEco 调试源（ark 调试链路，提供 padding/margin/border 声明值与自定义组件名）与 uitest 无障碍树；.ets 查看器提供 ArkTS 语法高亮；注册 harmony_ui_tree agent 工具供对话内取组件树；设置页管理 DevEco Studio/CLT 工具链与 USB/网络设备。21 个 Remote 方法，82 个单元测试。
 - [moonquake2004/dsh-doctor#plugin](https://github.com/moonquake2004/dsh-doctor/tree/main/plugin) — 离线诊断工具：环境/Profile/会话共 19 项检查，带设置「诊断」面板与只读 JSON API。
 - [multica-ai/dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) — 让 dsh 运行时跑在 Multica 上。
 - [MutaLucem/dsh-plugin-integration](https://github.com/MutaLucem/dsh-plugin-integration) — 动态发现已装插件并打标分类，检测功能重叠与兼容冲突，一键启停切换、失效诊断与更新检测。
